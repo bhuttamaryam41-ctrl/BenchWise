@@ -1,0 +1,6 @@
+{
+  "name": "BenchWise",
+  "description": "An intelligent laboratory protocol review platform for biotechnology students, laboratory researchers, and educators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
