@@ -135,7 +135,7 @@ The AI is instructed to:
 Clone the repository:
 
 ```bash
-git clone https://github.com/bhuttamaryam41-ctrl/BenchWise.git
+https://github.com/bhuttamaryam41-ctrl/BenchWise.git
 ```
 
 Install dependencies:
